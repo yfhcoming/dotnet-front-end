@@ -14,7 +14,7 @@
           <!--          <span>hover text</span>-->
           <!--        </div>-->
           <div class="component-item" style="">
-            <mallki class-name="mallki-text" text="推荐知识库" style=""/>
+            <mallki class-name="mallki-text" text="知识库广场" style=""/>
           </div>
         </el-card>
 
